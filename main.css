@@ -1,0 +1,37 @@
+body {
+  background-image: url(1.1_background2.jpeg);
+  background-size: cover;
+  text-transform: uppercase;
+}
+hr {
+  width: 18em;
+}
+h1,
+h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  color: black;
+
+}
+
+.nav-link_boxes {
+  border: 3px solid  rgb(174, 184, 185);
+  display: inline-block;
+  width: 90px;
+  text-align: center;
+
+
+
+}
+
+.nav-link_boxes a {
+  text-decoration: none;
+  color: white;
+}
